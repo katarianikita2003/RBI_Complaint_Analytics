@@ -43,4 +43,4 @@ reports/
 - Response Rate (%)
 - Average Complaints per Institution
 
-![Dashboard](D:\RBI_Complaint_Analytics\dashboard\dashboard.png)
+![Dashboard](dashboard/dashboard.png)
